@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sameer Gupta</h1>
 <h3 align="center">I like to develop websites and games</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer240704&label=Profile%20views&color=0e75b6&style=flat" alt="sameer240704" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer240704" alt="sameer240704" /></a> </p>
 
 - 🔭 I’m currently working on [Code Pencil](https://github.com/sameer240704/CodePencil)
@@ -27,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer240704&show_icons=true&locale=en" alt="sameer240704" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer240704&" alt="sameer240704" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameer240704&label=Profile%20views&color=0e75b6&style=flat" alt="sameer240704" /> </p>
