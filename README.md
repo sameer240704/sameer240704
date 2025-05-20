@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameer240704" alt="sameer240704" /></a> </p>
 
-- 🔭 I’m currently working on [Code Pencil](https://github.com/sameer240704/CodePencil)
+- 🔭 I’m currently working on [charizard-ai](https://github.com/sameer240704/charizard-ai/)
 
 - 🌱 I’m currently learning **Unreal Engine, Artificial Intelligence**
 
