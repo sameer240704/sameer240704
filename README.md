@@ -7,7 +7,14 @@
 
 - 🌱 I’m currently learning **Unreal Engine, Artificial Intelligence**
 
-<h3 align="left">Connect with me:</h3>
+## 🏆 Achievements
+
+- 🥇 **Winner** - Smart India Hackathon 2024 - [VaniVikas](https://github.com/parthgala1/SIH)
+- 🥇 **Winner** - Lines Of Code 7.0 - [BetterWorld]()
+- 🥈 **1st Runner Ups** - VES-HACK-IT Hacks - [Bandhu]() 
+- 🥈 **1st Runner Ups** - Data 2 Knowledge 3.0 - [Fin360](fin360-bournvita-smugglers.vercel.app)
+
+### <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sameergupta24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameergupta24" height="30" width="40" /></a>
 <a href="https://instagram.com/sameergupta.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameergupta.24" height="30" width="40" /></a>
