@@ -11,8 +11,8 @@
 
 - 🥇 **Winner** - Smart India Hackathon 2024 - [VaniVikas](https://github.com/parthgala1/SIH)
 - 🥇 **Winner** - Lines Of Code 7.0 - [BetterWorld]()
-- 🥈 **1st Runner Ups** - VES-HACK-IT Hacks - [Bandhu]() 
-- 🥈 **1st Runner Ups** - Data 2 Knowledge 3.0 - [Fin360](fin360-bournvita-smugglers.vercel.app)
+- 🥈 **1st Runner Up** - VES-HACK-IT Hacks - [Bandhu]() 
+- 🥈 **1st Runner Up** - Data 2 Knowledge 3.0 - [Fin360](fin360-bournvita-smugglers.vercel.app)
 
 ### <h3 align="left">Connect with me:</h3>
 <p align="left">
